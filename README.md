@@ -4,7 +4,11 @@
 
 <p align="center">
 
-  <img width="850" height="300" src="https://64.media.tumblr.com/ee6ad469e0dc1c000f3822c016deadfb/b85385295494c507-06/s2048x3072/3067762cb8aba6c25a1a6bab80d6df6e5aa3aabf.gifv"> welcome to my page!!
+  <img width="850" height="300" src="https://64.media.tumblr.com/ee6ad469e0dc1c000f3822c016deadfb/b85385295494c507-06/s2048x3072/3067762cb8aba6c25a1a6bab80d6df6e5aa3aabf.gifv"> 
+  
+  <p align="center">
+    
+  welcome to my page!!
   
 <p align="center">
   
