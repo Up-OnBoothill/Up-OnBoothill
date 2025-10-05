@@ -4,8 +4,7 @@
 
 <p align="center">
 
-  <img width="850" height="300" src="https://64.media.tumblr.com/ee6ad469e0dc1c000f3822c016deadfb/b85385295494c507-06/s2048x3072/3067762cb8aba6c25a1a6bab80d6df6e5aa3aabf.gifv">
-welcome to my page!!
+  <img width="850" height="300" src="https://64.media.tumblr.com/ee6ad469e0dc1c000f3822c016deadfb/b85385295494c507-06/s2048x3072/3067762cb8aba6c25a1a6bab80d6df6e5aa3aabf.gifv"> welcome to my page!!
 
   <img width="200" height="200" src="https://64.media.tumblr.com/3f72004daef0c3fbed59c26628f2d5a5/49deecea44115d9b-d9/s400x600/4334e3e3a9a8ca52be3324889b5467539fb51e1d.gifv">
 
