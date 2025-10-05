@@ -11,7 +11,7 @@
   
 <p align="center">
   
-  <img width="250" height="200" src="https://64.media.tumblr.com/3f72004daef0c3fbed59c26628f2d5a5/49deecea44115d9b-d9/s400x600/4334e3e3a9a8ca52be3324889b5467539fb51e1d.gifv">
+  <img width="250" height="150" src="https://64.media.tumblr.com/3f72004daef0c3fbed59c26628f2d5a5/49deecea44115d9b-d9/s400x600/4334e3e3a9a8ca52be3324889b5467539fb51e1d.gifv">
 
 <p align="center">
 Boss / Boothill ⋆ He/Him ⋆ 15
