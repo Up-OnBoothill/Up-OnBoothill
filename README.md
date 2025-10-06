@@ -1,6 +1,6 @@
 ![](https://lastfm-recently-played.vercel.app/api?user=bugged_outtt&count=1)
 
-![](https://komarev.com/ghpvc/?username=Gr1m-Reaper&color=blue)
+![](https://komarev.com/ghpvc/?username=Gr1m-Reaper&color=red)
 
 <p align="center">
 
